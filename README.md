@@ -1,6 +1,6 @@
-<img src="screenshot.png" alt="howl" align="center">
+![howl](screenshot.png)
 
-<p align="center">Syntax highlighting for the [PEG](http://bford.info/packrat/) notation</p>
+Syntax highlighting for the [PEG](http://bford.info/packrat/) notation
 
 ```
 cd ~/.howl/bundles
